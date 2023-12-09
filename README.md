@@ -39,5 +39,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
-
+###
+<div>
+  <h2>Latest Projects</h2>
+<ul>
+  <li>
+    https://littlestars-care.web.app
+  </li>
+   <li>
+     https://scp-electronics.web.app
+  </li>
+   <li>
+     https://trip-trove-e91d8.web.app
+  </li>
+</ul>
+  
+</div>
 ###
