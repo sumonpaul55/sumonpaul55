@@ -20,6 +20,17 @@
 
 ###
 
+<h2 align="left">Contact Info:</h2>
+
+###
+
+<p align="left">Email: <a href="mailto:sumonpaul3217@gmail.com">Send email</a></p>
+   
+  <br><br>Phone:
+
+<p align="left">Email: <a href="tel:+8801628883217">01628883217</a></p>
+###
+
 <h2 align="left">Having Experience with-</h2>
 
 ###
