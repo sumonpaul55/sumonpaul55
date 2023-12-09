@@ -1,16 +1,18 @@
-<h1 align="left">Hey 👋 I am Sumon Chandra Paul!</h1>
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/sumonpaul55/sumonpaul55/main/github%20banner.png"  />
+</div>
 
 ###
 
-<p align="left">My name is Sumon Chandra Paul and I'm a Front end Developer from Bangladesh.</p>
+<h1 align="center">HI,  👋 I am Sumon Chandra Paul!</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left"></p>
 
 ###
 
-<p align="left">Front-end developer with 1 year of experience with react js. And familiar with more technologies like express, mongodb and so more...</p>
+<p align="left">Front-end developer with 1 year of experience with react js. And familiar with more technologies like express, mongodb and so more...<br><br>My name is Sumon Chandra Paul and I'm a Front end Developer from Bangladesh.</p>
 
 ###
 
