@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ <br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">Front-end developer.I ready to build beautiful and user-friendly websites.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Having Experience with-</h2>
 
 ###
 
