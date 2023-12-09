@@ -8,8 +8,6 @@
 
 ###
 
-<p align="left"></p>
-
 ###
 
 <p align="left">My name is Sumon Chandra Paul and I'm a Front end Developer from Bangladesh.</p>
@@ -24,11 +22,11 @@
 
 ###
 
-<p align="left">Email: <a href="mailto:sumonpaul3217@gmail.com">Send email</a></p>
+<p align="left">Email: <a href="mailto:sumonpaul3217@gmail.com">sumonpaul3217@gmail.com</a></p>
    
-  <br><br>Phone:
 
-<p align="left">Email: <a href="tel:+8801628883217">01628883217</a></p>
+<p align="left"> Phone: <a href="tel:+8801628883217">01628883217</a></p>
+
 ###
 
 <h2 align="left">Having Experience with-</h2>
