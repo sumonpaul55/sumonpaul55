@@ -2,36 +2,23 @@
   <img height="200" src="https://raw.githubusercontent.com/sumonpaul55/sumonpaul55/main/githubbanner.png"  />
 </div>
 
-###
-
 <h1 align="center">HI,  👋 I am Sumon Chandra Paul!</h1>
 
+<h2 align="left">Contact Info:</h2>
 ###
+<p align="left">Email: <a href="mailto:sumonpaul3217@gmail.com">sumonpaul3217@gmail.com</a></p>  
 
+<p align="left"> Phone: <a href="tel:+8801628883217">01628883217</a></p>
 ###
-
+<h2 align="left">About Me</h2>
+###
 <p align="left">My name is Sumon Chandra Paul and I'm a Front end Developer from Bangladesh.</p>
 
 ###
 
 <p align="left">Front-end developer with with react js. And familiar with backend technologies like express, mongodb and so more...</p>
 <p align="left">Already I am having Experienced with Html, Css, Javascript, React js, Tailwind Css, Bootstrap firebase and more React packages.</p>
-###
 
-<h2 align="left">Contact Info:</h2>
-
-###
-
-<p align="left">Email: <a href="mailto:sumonpaul3217@gmail.com">sumonpaul3217@gmail.com</a></p>
-   
-
-<p align="left"> Phone: <a href="tel:+8801628883217">01628883217</a></p>
-
-###
-
-<h2 align="left">Having Experience with-</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
