@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Front-end developer.I ready to build beautiful and user-friendly websites.</p>
+<p align="left">Front-end developer with 1 year of experience with react js. And familiar with more technologies like express, mongodb and so more...</p>
 
 ###
 
