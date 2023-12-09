@@ -53,6 +53,18 @@
      https://trip-trove-e91d8.web.app
   </li>
 </ul>
-  
 </div>
+
 ###
+
+
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sumonpaul55)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sumonpaul55)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonpaul55&show_icons=true)  
+
