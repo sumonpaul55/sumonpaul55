@@ -15,7 +15,7 @@
 ###
 
 <p align="left">Front-end developer with 1 year of experience with react js. And familiar with more technologies like express, mongodb and so more...</p>
-
+<p align="left">Already I am having Experienced with Html, Css, Javascript, React js, Tailwind Css, Bootstrap and more React packages.</p>
 ###
 
 <h2 align="left">Contact Info:</h2>
