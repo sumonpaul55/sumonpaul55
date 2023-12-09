@@ -12,7 +12,11 @@
 
 ###
 
-<p align="left">Front-end developer with 1 year of experience with react js. And familiar with more technologies like express, mongodb and so more...<br><br>My name is Sumon Chandra Paul and I'm a Front end Developer from Bangladesh.</p>
+<p align="left">My name is Sumon Chandra Paul and I'm a Front end Developer from Bangladesh.</p>
+
+###
+
+<p align="left">Front-end developer with 1 year of experience with react js. And familiar with more technologies like express, mongodb and so more...</p>
 
 ###
 
