@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/sumonpaul55/sumonpaul55/refs/heads/main/github%20banner.png" alt="web developer"/>
 <h1 align="center">Hi 👋, I'm Sumon Chandra Paul</h1>
 <h3 align="center">A passionate MERN stack developer focused on front-end, specializing in React.js.</h3>
 
