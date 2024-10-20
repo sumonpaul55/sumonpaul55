@@ -182,9 +182,7 @@
       /></a>
     </p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonpaul55&" alt="sumonpaul55" /></p>
-    <div>
-      <h2>Porjects Live link</h2>
+ <h2>Porjects Live link</h2>
       <h3><a href="https://gardenigng-tips-advice.vercel.app">gardening tips and advice</a>(Blog)</h3>
       <h3><a href="https://meeting-room-booking-client.vercel.app">Meeting room booking</a></h3>
       <h3><a href="https://keyboard-shop-client.vercel.app/">keyboard shop</a>(Ecommerce)</h3>
-    </div>
