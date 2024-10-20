@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/sumonpaul55/sumonpaul55/refs/heads/main/github%20banner.png" alt="web developer" />
 <h1 align="center">Hi 👋, I'm Sumon Chandra Paul</h1>
 <h3 align="center">
-  A passionate MERN stack developer focused on front-end, specializing in React.js, Next.js, TypeScript, and Tailwind CSS. Aspiring to grow into a
-  senior full-stack developer.
+  A passionate MERN stack developer focused on front-end, specializing in React.js, Next.js, TypeScript, and Tailwind CSS.
 </h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sumonpaul55&label=Profile%20views&color=0e75b6&style=flat" alt="sumonpaul55" /></p>
