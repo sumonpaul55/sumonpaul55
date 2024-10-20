@@ -9,9 +9,10 @@
   /></a>
 </p>
 
-- 👨‍💻 All of my projects are available at [sumonpaul5.netlify.app](sumonpaul5.netlify.app) - 💬 Ask me about **Mern, Next.js, React.js** - 📫 How to
-reach me **sumonpaul3217@gmail.com** - 📄 Know about my experiences
-[https://drive.google.com/file/d/1dlwy3VGj3ZyRw2T8RS5PAypqCFO3VIsg/view?usp=sharing](https://drive.google.com/file/d/1dlwy3VGj3ZyRw2T8RS5PAypqCFO3VIsg/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [sumonpaul5.netlify.app](sumonpaul5.netlify.app) -
+- 💬 Ask me about **Mern, Next.js, React.js**
+- 📫 How to reach me **sumonpaul3217@gmail.com** 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dlwy3VGj3ZyRw2T8RS5PAypqCFO3VIsg/view?usp=sharing](https://drive.google.com/file/d/1dlwy3VGj3ZyRw2T8RS5PAypqCFO3VIsg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
