@@ -4,11 +4,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sumonpaul55&label=Profile%20views&color=0e75b6&style=flat" alt="sumonpaul55" /></p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img src="https://github-profile-trophy.vercel.app/?username=sumonpaul55" alt="sumonpaul55"
-  /></a>
-</p>
+
 
 - 👨‍💻 All of my projects are available at [sumonpaul5.netlify.app](sumonpaul5.netlify.app) -
 - 💬 Ask me about **Mern, Next.js, React.js**
@@ -156,5 +152,9 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumonpaul55&show_icons=true&locale=en" alt="sumonpaul55" /></p>
-
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img src="https://github-profile-trophy.vercel.app/?username=sumonpaul55" alt="sumonpaul55"
+  /></a>
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonpaul55&" alt="sumonpaul55" /></p>
