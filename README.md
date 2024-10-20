@@ -1,5 +1,5 @@
- <img src="https://raw.githubusercontent.com/sumonpaul55/sumonpaul55/refs/heads/main/github%20banner.png" alt="web developer" />
-  <h1 align="center">Hi 👋, I'm Sumon Chandra Paul</h1>
+<img src="https://raw.githubusercontent.com/sumonpaul55/sumonpaul55/refs/heads/main/github%20banner.png" alt="web developer" />
+<h1 align="center">Hi 👋, I'm Sumon Chandra Paul</h1>
 <h3 align="center">
   A passionate MERN stack developer focused on front-end, specializing in React.js, Next.js, TypeScript, and Tailwind CSS. Aspiring to grow into a
   senior full-stack developer.
@@ -7,9 +7,10 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sumonpaul55&label=Profile%20views&color=0e75b6&style=flat" alt="sumonpaul55" /></p>
 
-
-- 👨‍💻 All of my projects are available at [sumonpaul5.netlify.app](sumonpaul5.netlify.app) - 💬 Ask me about **Mern, Next.js, React.js** - 📫 How to
-reach me **sumonpaul3217@gmail.com** - 📄 Know about my experiences
+- 👨‍💻 All of my projects are available at [sumonpaul5.netlify.app](sumonpaul5.netlify.app) 
+- 💬 Ask me about **Mern, Next.js, React.js** 
+- 📫 How to reach me **sumonpaul3217@gmail.com** 
+- 📄 Know about my experiences
 [https://drive.google.com/file/d/1dlwy3VGj3ZyRw2T8RS5PAypqCFO3VIsg/view?usp=sharing](https://drive.google.com/file/d/1dlwy3VGj3ZyRw2T8RS5PAypqCFO3VIsg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
@@ -57,7 +58,7 @@ reach me **sumonpaul3217@gmail.com** - 📄 Know about my experiences
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left" >
+<div align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -161,4 +162,7 @@ reach me **sumonpaul3217@gmail.com** - 📄 Know about my experiences
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonpaul55&" alt="sumonpaul55" /></p>
-
+<h2>Porjects Live link</h2>
+<h3><a href="https://gardenigng-tips-advice.vercel.app">gardening tips and advice</a>(Blog)</h3>
+<h3><a href="https://meeting-room-booking-client.vercel.app">Meeting room booking</a></h3>
+<h3><a href="https://keyboard-shop-client.vercel.app/">keyboard shop</a>(Ecommerce)</h3>
