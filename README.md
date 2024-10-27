@@ -6,7 +6,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sumonpaul55&label=Profile%20views&color=0e75b6&style=flat" alt="sumonpaul55" /></p>
 
-- 👨‍💻 All of my projects are available at [[sumonpaul5.netlify.app](sumonpaul5.netlify.app)](https://sumon-paulinfo.vercel.app/) 
+- 👨‍💻 All of my projects are available at. (https://sumon-paulinfo.vercel.app/)
 - 💬 Ask me about **Mern, Next.js, React.js** 
 - 📫 How to reach me **sumonpaul3217@gmail.com** 
 - 📄 Know about my experiences
